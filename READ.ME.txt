@@ -1,0 +1,3 @@
+(PT-BR) Este repositório servirá como base para adicionar o meu aprendizado em Java, usando Programação Orientada a Objetos.
+
+(EN-USA) This repository will ne used to storage my knoledge using Programmation Oriented in Objetcs in Java.
