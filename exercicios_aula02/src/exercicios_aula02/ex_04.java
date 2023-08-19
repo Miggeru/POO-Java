@@ -1,0 +1,26 @@
+package exercicios_aula02;
+
+import java.util.Scanner;
+
+public class ex_04 {
+
+	public static void main(String[] args) {
+		
+		Scanner sc = new Scanner(System.in);
+		
+		String nome1 = "mestre do universo";
+		String nome2;
+		String temp;
+		
+		System.out.print("Escreva uma frase curta: ");
+		nome2 = sc.nextLine();
+		
+		System.out.println("Nome1:"+nome1+"Nome2:\n" +nome2);
+		
+		temp = nome2;
+		nome2 = nome1;
+		nome1 = temp;
+		
+		System.out.println("Nome1:"+nome1+"Nome2:" +nome2);
+	}
+}

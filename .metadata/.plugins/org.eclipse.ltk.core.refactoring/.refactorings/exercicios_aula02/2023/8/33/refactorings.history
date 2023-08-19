@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;exercicios_aula02.exercicios_aula02&apos; to &apos;BalancoTrimestral&apos;&#x0D;&#x0A;- Original project: &apos;exercicios_aula02&apos;&#x0D;&#x0A;- Original element: &apos;exercicios_aula02.exercicios_aula02&apos;&#x0D;&#x0A;- Renamed element: &apos;exercicios_aula02.BalancoTrimestral&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;exercicios_aula02&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;exercicios_aula02{exercicios_aula02.java[exercicios_aula02" matchStrategy="1" name="BalancoTrimestral" qualified="false" references="true" similarDeclarations="false" stamp="1692229834498" textual="false" version="1.0"/>
+</session>

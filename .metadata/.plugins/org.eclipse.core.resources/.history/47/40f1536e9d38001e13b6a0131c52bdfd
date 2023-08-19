@@ -1,0 +1,9 @@
+package teste;
+import javax.swing.JOptionPane;
+public class ex003 {
+	public static void main(String[] args) {
+		
+		String nome = JOptionPane.showInputDialog(null, "Qual o seu nome: ", "Nome", JOptionPane.INFORMATION_MESSAGE);
+		JOptionPane.showMessageDialog(null, "Seu nome é " + nome, "Titulo", JOptionPane.INFORMATION_MESSAGE);
+	}
+}
